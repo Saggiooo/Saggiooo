@@ -26,7 +26,9 @@ React • HTML • CSS
 Node.js • Docker • MySQL • Nginx  
 
 **Main Tools**  
-Stripe • Google APIs • Cloudflare Lemon • Squeezy • Search Console • Google Ads • Meta Business Suite • Google Tag Manager • Brevo • Docker
+Stripe • Google APIs • Cloudflare  
+Lemon Squeezy • Google Search Console • Google Ads  
+Meta Business Suite • Google Tag Manager • Brevo • Docker
 
 ## 📫 Connect
 
